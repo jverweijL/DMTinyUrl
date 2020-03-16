@@ -1,0 +1,4 @@
+Bundle-Name: DMTinyUrl
+Bundle-SymbolicName: dmtinyurl
+Bundle-Version: 1.0.0
+Export-Package: dmtinyurl.api
